@@ -23,7 +23,7 @@ For now, welcome.
 I’ll be adding content to this document and posting about the release. 
 
 ## Table of Contents 
-- On Managing and Mentoring 
+- [On Managing and Mentoring](00-On-Managing-and-Mentoring.md) 
 - Chapter 1 - Rome Wasn’t Built in a Day
 - Chapter 2 - How to Be A Leader, and Learning to Listen
 - Chapter 3 Inaugural Meetings
