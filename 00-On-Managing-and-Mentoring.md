@@ -24,5 +24,8 @@ I take a lot of the lessons, themes, and attributes in those books and organize 
 This book is divided into chapters based on the type of activity you will encounter as a leader. After reading the first two chapters, you may jump, or skip around based on what skill you are looking to practice. 
 
 
-[Next Chapter - Chapter 1 - Rome Wasn't Built in a Day]()
+### Quick Links 
+
+[Next Chapter - Chapter 1 - Rome Wasn't Built in a Day](01-Rome-Wasnt-Built-in-a-Day.md)
+
 [Table of Contents](README.md)
