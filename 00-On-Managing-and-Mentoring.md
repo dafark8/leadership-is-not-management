@@ -19,7 +19,7 @@ There are tons of resources out there, a few personal favorites include Christin
 
 I take a lot of the lessons, themes, and attributes in those books and organize them into a quick guide that I try to lead by. This is not a replacement for those larger lessons or publications. This is my collection of lessons based on experience and bumps in the road. 
 
-## How to Use this Book?
+## How to Use this?
 
 This book is divided into chapters based on the type of activity you will encounter as a leader. After reading the first two chapters, you may jump, or skip around based on what skill you are looking to practice. 
 
