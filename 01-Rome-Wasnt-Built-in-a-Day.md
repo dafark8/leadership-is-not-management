@@ -34,8 +34,8 @@ Maybe a Delta File isn’t for you. A colleague has a presentation they share wi
 
 ### Quick Links 
 
-[Previous Chapter - Rome Wasn't Built in a Day](01-Rome-Wasnt-Built-in-a-Day.md)
+[Previous Chapter - On Managing and Mentoring](00-On-Managing-and-Mentoring.md)
 
-[Next Chapter - Chapter 3 - ]()
+[Next Chapter - Chapter 2 - How to Be A Leader, and Learning to Listen](02-How-to-Be-A-Leader-Learning-to-Listen.md)
 
 [Table of Contents](README.md)

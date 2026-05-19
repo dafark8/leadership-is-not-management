@@ -59,7 +59,7 @@ Everyone has their own motivations, and I would never be able to capture them al
 
 **Do you want to manage for career growth?** Growing into management used to be the sole path for career growth. In some organizations it still may be the primary path. However, growing into management requires two key things: 
 1. Organizational growth 
-1. financial investment. 
+1. Financial investment. 
 
 By this, I mean you cannot be promoted to manager if nobody junior is being hired to manage. So either you need to see rapid team growth or existing managers need to transition to other roles leaving vacancies / opportunities. Fortunately, the industry is shifting and individual practitioner paths, often called principle tracks are increasing in their opportunity for professional acceleration. 
 
@@ -135,8 +135,8 @@ As mentioned, you can write your job description if you are looking for a job or
 
 ### Quick Links 
 
-[Previous Chapter - On Managing and Mentoring](00-On-Managing-and-Mentoring.md)
+[Previous Chapter - Rome Wasn't Built in a Day](01-Rome-Wasnt-Built-in-a-Day.md)
 
-[Next Chapter - Chapter 2 - How to Be A Leader, and Learning to Listen](02-How-to-Be-A-Leader-Learning-to-Listen.md)
+[Next Chapter - Chapter 3 - ]()
 
 [Table of Contents](README.md)
