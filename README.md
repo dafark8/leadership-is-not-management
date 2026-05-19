@@ -25,7 +25,7 @@ I’ll be adding content to this document and posting about the release.
 ## Table of Contents 
 - [On Managing and Mentoring](00-On-Managing-and-Mentoring.md) 
 - [Chapter 1 - Rome Wasn’t Built in a Day](01-Rome-Wasnt-Built-in-a-Day.md)
-- Chapter 2 - How to Be A Leader, and Learning to Listen
+- [Chapter 2 - How to Be A Leader, and Learning to Listen](02-How-to-Be-A-Leader-Learning-to-Listen.md) 
 - Chapter 3 Inaugural Meetings
 - Chapter 4 Recurring Meetings
 - Chapter 5 Feedback is a Gift
