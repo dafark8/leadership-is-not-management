@@ -63,7 +63,7 @@ Everyone has their own motivations, and I would never be able to capture them al
 
 By this, I mean you cannot be promoted to manager if nobody junior is being hired to manage. So either you need to see rapid team growth or existing managers need to transition to other roles leaving vacancies / opportunities. Fortunately, the industry is shifting and individual practitioner paths, often called principle tracks are increasing in their opportunity for professional acceleration. 
 
-**Do you want to manage because you are tired of making?** As mentioned about career growth the tech industry is seeing a trend of practitioner-track and management-track career paths. If you want to be part of the process, but may have outgrown the “pixel pushing” or craft equivilan, maybe management is for you. If you want more agency but enjoy the making, look at leadership roles. 
+**Do you want to manage because you are tired of making?** As mentioned about career growth the tech industry is seeing a trend of practitioner-track and management-track career paths. If you want to be part of the process, but may have outgrown the “pixel pushing” or craft equivalent, maybe management is for you. If you want more agency but enjoy the making, look at leadership roles. 
 
 ### Why do I manage? 
 I'm writing about leadership and management, and it would only be fair to share my own motivations for the career path I have been pursuing. 
@@ -92,7 +92,7 @@ And keep in mind, growth through leadership takes on many forms - mentoring, pro
 
 I hope it is clear Leadership comes in many shapes and sizes. Principal/Lead roles are often individual practitioner roles with mentorship and project-leadership responsibilities. Manager or Director roles often have more business development and/or people management responsibilities. 
 
-We may also find our skills hidden in other titles. For instance a lot of stakeholder management, roadmapping, and defining the needs, skills often thought of as Research skills, are starting to shift to more Product Management (different use of the word Manage there) roles. And with the influx of artificial intellgence tools and roles, being user-intelligence-officers, data-modelers, or agentic-partners are all potential roles and job titles I have seen. 
+We may also find our skills hidden in other titles. For instance a lot of stakeholder management, roadmapping, and defining the needs, skills often thought of as Research skills, are starting to shift to more Product Management (different use of the word Manage there) roles. And with the influx of artificial intelligence tools and roles, being user-intelligence-officers, data-modelers, or agentic-partners are all potential roles and job titles I have seen. 
 
 
 ### How do you know what role is right for you? 
@@ -137,6 +137,6 @@ As mentioned, you can write your job description if you are looking for a job or
 
 [Previous Chapter - Rome Wasn't Built in a Day](01-Rome-Wasnt-Built-in-a-Day.md)
 
-[Next Chapter - Chapter 3 - ]()
+[Next Chapter - Chapter 3 - ](03-First-Meetings.md)
 
 [Table of Contents](README.md)
