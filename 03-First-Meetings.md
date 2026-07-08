@@ -58,6 +58,6 @@ It starts with putting ourselves out there.
 
 [Previous Chapter - How to be a Leader, Learning to Listen](02-How-to-Be-A-Leader-Learning-to-Listen.md)
 
-[Next Chapter - Chapter 4 - ]()
+[Next Chapter - Chapter 4 - Recurring Meetings ](04-Recurring-Meetings.md)
 
 [Table of Contents](README.md)
