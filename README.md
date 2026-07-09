@@ -28,9 +28,10 @@ I’ll be adding content to this document and posting about the release.
 - [Chapter 2 - How to Be A Leader, and Learning to Listen](02-How-to-Be-A-Leader-Learning-to-Listen.md) 
 - [Chapter 3 Inaugural Meetings](03-First-Meetings.md)
 - [Chapter 4 Recurring Meetings](04-Recurring-Meetings.md)
-- Chapter 5 Feedback is a Gift
-- Chapter 6 Managing Meetings
-- Chapter 7 - Your 90-Day Goals
-- Chapter 8 - Growing Your Team Members
-- Chapter 9 - Growing (Scaling) Your Team
-- Chapter 10 - The Hard Conversations
+- [Chapter 5 Feedback is a Gift](05-Feedback-Is-A-Gift.md)
+- [Chapter 6 Managing Meetings](06-Managing-Meetings.md)
+- [Chapter 7 - Your 90-Day Goals]()
+- [Chapter 8 - Growing Your Team Members]()
+- [Chapter 9 - Growing (Scaling) Your Team]()
+- [Chapter 10 - The Hard Conversations]()
+- [Chapter 11 - On AI and Leading]()

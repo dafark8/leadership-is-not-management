@@ -77,7 +77,7 @@ The point is to build bridges and relationships. You don’t want your first enc
 
 Not all “random 1:1s” will lead to recurring meetings, In fact most won’t. That’s a good thing. Nobody has time for that. But if 10% of your random introductions build a working relationship, that is 10% greater reach and visibility you and your team have across the organization. 
 
-## Relationships are Continuous NEW
+## Relationships are Continuous
 
 Relationship are not one and done, not set and forget. 
 
@@ -89,7 +89,7 @@ In addition to 1:1s, you should hold regular team meetings. These may be critiqu
 
 **Monday Morning Coffee.** 30-minutes where we just talk about our weekends, and anything not work related. In meeting/work-heavy worlds, this keeps us honest on a human level. Ultimately my team took ownership of this call without me, allowing them to build rapport in a safe manager-free space. 
 
-**Weekly critiques.** Allowing one team member to hone their presentation skills (and the rest of the team to hone their critique-offering muscle) in a safe environment. My general guidelines for critique are heavily inspired by Discussing Design by Adam Connor and Aaron Irizarry. My snapshot summary is pictured below. 
+**Weekly critiques.** Allowing one team member to hone their presentation skills (and the rest of the team to hone their critique-offering muscle) in a safe environment. My general guidelines for critique are heavily inspired by [Discussing Design](https://www.oreilly.com/library/view/discussing-design/9781491902394/_) by Adam Connor and Aaron Irizarry. My snapshot summary is pictured below. 
 
 **Team process/general share.** A half-hour weekly sync for me to share what’s happening in the team and organization broadly. This offers a sounding board for team members in voicing concerns that can then be filtered to more senior leadership. I quickly dropped this meeting as a weekly ritual in lieu of the asynchronous document noted above. I still hold monthly or quarterly touch-points. 
 
@@ -113,6 +113,6 @@ Mute yourself. If you’re not talking, go on mute. Even more, invest $40 in a d
 
 [Previous Chapter - Inaugural Meetings](03-First-Meetings.md)
 
-[Next Chapter - Chapter 4 - ]()
+[Next Chapter - Chapter 5 - Feedback is a Gift](05-Feedback-Is-A-Gift.md)
 
 [Table of Contents](README.md)
