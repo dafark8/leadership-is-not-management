@@ -62,3 +62,11 @@ Roles are only one part of hosting and facilitating good meetings. I encourage y
 
 
 These are by no means an all inclusive list, nor do they work in all settings and situations. These are my litmus tests, and my starting point with teams and organizations. 
+
+### Quick Links 
+
+[Previous Chapter - Feedback Is a Gift](05-Feedback-Is-A-Gift.md)
+
+[Next Chapter - Chapter 7 -]()
+
+[Table of Contents](README.md)

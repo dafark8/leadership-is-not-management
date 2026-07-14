@@ -47,6 +47,6 @@ In some cases, I ask for this feedback “how am I doing” and in other cases s
 
 [Previous Chapter - Recurring Meetings](04-Recurring-Meetings.md)
 
-[Next Chapter - Chapter 6 - Managing Meetings](06-Manageing-Meetings.md)
+[Next Chapter - Chapter 6 - Managing Meetings](06-Managing-Meetings.md)
 
 [Table of Contents](README.md)
