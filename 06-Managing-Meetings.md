@@ -67,6 +67,6 @@ These are by no means an all inclusive list, nor do they work in all settings an
 
 [Previous Chapter - Feedback Is a Gift](05-Feedback-Is-A-Gift.md)
 
-[Next Chapter - Chapter 7 -]()
+[Next Chapter - Chapter 7 - Your 90-Day Goals](07-90-Day-Goals.md)
 
 [Table of Contents](README.md)

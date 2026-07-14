@@ -30,7 +30,7 @@ I’ll be adding content to this document and posting about the release.
 - [Chapter 4 Recurring Meetings](04-Recurring-Meetings.md)
 - [Chapter 5 Feedback is a Gift](05-Feedback-Is-A-Gift.md)
 - [Chapter 6 Managing Meetings](06-Managing-Meetings.md)
-- [Chapter 7 - Your 90-Day Goals]()
+- [Chapter 7 - Your 90-Day Goals](07-90-Day-Goals.md)
 - [Chapter 8 - Growing Your Team Members]()
 - [Chapter 9 - Growing (Scaling) Your Team]()
 - [Chapter 10 - The Hard Conversations]()
