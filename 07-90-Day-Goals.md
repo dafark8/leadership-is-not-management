@@ -43,6 +43,6 @@ I intentionally avoided concrete goals in my examples above. Nothing like “shi
 
 [Previous Chapter - Managing Meeting](06-Managing-Meetings.md)
 
-[Next Chapter - Chapter 8 -]()
+[Next Chapter - Chapter 8 - Growing Your Team Members](08-Growing-Team-Members.md)
 
 [Table of Contents](README.md)
