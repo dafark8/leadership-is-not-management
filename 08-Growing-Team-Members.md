@@ -61,6 +61,6 @@ While the career frameworks I’ve developed are bespoke to specific teams and o
 
 [Previous Chapter - Your (First) 90 Day Goals](07-90-Day-Goals.md)
 
-[Next Chapter - Chapter 9 -]()
+[Next Chapter - Chapter 9 - Growing and Scaling Your Team](09-Growing-Scaling-Team.md)
 
 [Table of Contents](README.md)

@@ -32,6 +32,6 @@ I’ll be adding content to this document and posting about the release.
 - [Chapter 6 Managing Meetings](06-Managing-Meetings.md)
 - [Chapter 7 - Your 90-Day Goals](07-90-Day-Goals.md)
 - [Chapter 8 - Growing Your Team Members](08-Growing-Team-Members.md)
-- [Chapter 9 - Growing (Scaling) Your Team]()
+- [Chapter 9 - Growing (Scaling) Your Team](09-Growing-Scaling-Team.md)
 - [Chapter 10 - The Hard Conversations]()
 - [Chapter 11 - On AI and Leading]()
